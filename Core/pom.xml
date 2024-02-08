@@ -89,7 +89,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>io.th0rgal.oraxen</groupId>
+            <groupId>com.github.oraxen</groupId>
             <artifactId>Oraxen</artifactId>
             <version>1.155.1</version>
         </dependency>
