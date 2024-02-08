@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-    - 'src/**'
+    - 'Core/**'
     - 'pom.xml'
     - '.github/workflows/build-release.yml'
 
