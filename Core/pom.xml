@@ -78,8 +78,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>net.alex9849.arm</groupId>
-            <artifactId>AdvancedRegionMarket</artifactId>
+            <groupId>com.github.alex9849</groupId>
+            <artifactId>advanced-region-market</artifactId>
             <version>3.5.3</version>
         </dependency>
         <dependency>
