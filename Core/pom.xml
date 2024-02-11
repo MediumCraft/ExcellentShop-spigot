@@ -43,11 +43,6 @@
         </repository>
 
         <repository>
-            <id>intellectualsites snapshots</id>
-            <url>https://mvn.intellectualsites.com/content/repositories/snapshots/</url>
-        </repository>
-
-        <repository>
             <id>placeholderapi</id>
             <url>https://repo.extendedclip.com/content/repositories/placeholderapi/</url>
         </repository>
