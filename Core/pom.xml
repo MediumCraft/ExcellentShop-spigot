@@ -57,6 +57,16 @@
             <url>https://repo.dmulloy2.net/repository/public/</url>
         </repository>
 
+        <repository>
+            <id>intellectualsites snapshots</id>
+            <url>https://mvn.intellectualsites.com/content/repositories/snapshots/</url>
+        </repository>
+
+        <repository>
+            <id>oraxen-releases</id>
+            <name>Oraxen Repository</name>
+            <url>https://repo.oraxen.com/releases</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -84,7 +94,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.oraxen</groupId>
+            <groupId>io.th0rgal.oraxen</groupId>
             <artifactId>Oraxen</artifactId>
             <version>1.155.1</version>
         </dependency>
