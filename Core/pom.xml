@@ -94,8 +94,8 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>io.th0rgal.oraxen</groupId>
-            <artifactId>Oraxen</artifactId>
+            <groupId>io.th0rgal</groupId>
+            <artifactId>oraxen</artifactId>
             <version>1.171.0</version>
         </dependency>
         <dependency>
